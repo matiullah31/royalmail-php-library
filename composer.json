@@ -10,7 +10,6 @@
             "email": "mati_ullah31@yahoo.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
         "ext-curl": "*",
         "ext-json": "*",
