@@ -10,8 +10,6 @@
             "email": "mati_ullah31@yahoo.com"
         }
     ],
-    "minimum-stability": "dev",
-    "prefer-stable": true,
     "require": {
         "ext-curl": "*",
         "ext-json": "*",
@@ -23,6 +21,11 @@
     "autoload": {
         "psr-4": {
             "Royalmail\\": "src/Royalmail/"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.x-dev"
         }
     }
 }
