@@ -23,6 +23,5 @@
         "psr-4": {
             "Royalmail\\": "src/Royalmail/"
         }
-    },
-    "version": "1.0.0"
+    }
 }
