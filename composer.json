@@ -1,6 +1,7 @@
 {
-    "name": "matiullah/royalmail-sdk",
+    "name": "matiullah31/royalmail-php-library",
     "description": "royalmail rest api v2 php library",
+    "homepage":"https://github.com/matiullah31/royalmail-php-library",
     "type": "library",
     "license": "MIT",
     "authors": [
